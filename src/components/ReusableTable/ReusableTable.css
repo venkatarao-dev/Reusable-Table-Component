@@ -1,0 +1,17 @@
+.reusable_table {
+  margin-top: 10px;
+  background-color: lightblue;
+}
+
+.search_field {
+  background-color: aquamarine;
+}
+
+.table-row:nth-of-type(odd) {
+  background-color: lightblue;
+  width: 100%;
+}
+
+.table-row:nth-of-type(even) {
+  background-color: lightgreen;
+}
